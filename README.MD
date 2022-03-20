@@ -26,13 +26,27 @@ With bronze, you can make:
 
 ## Todo List
 
-### First Release
-- [ ] Finish 'build.gradle'
-- [ ] Finish 'mods.toml'
+### First Release (Alpha)
+- [X] Finish 'build.gradle'
+- [X] Finish 'mods.toml'
 - [ ] Make some textures
+  - [X] Blocks
+  - [X] Ingots
+  - [X] Pickaxes
+- [X] Find out where exactly to put the resources because it doesn't say anywhere in Forge's documentation.
+  - [X] I wonder if fabric's docs are better?
+  - [X] Seriously, Forge has THE WORST docs in existence. Not detailed AT ALL.
 - [ ] Write Java
+  - [ ] Client Side
+  - [ ] Server side
 - [ ] Fix MS Bindings
 
+## Planned Features
+- [ ] Tinkers' Construct Integration
+- [ ] Version For FabricMC
+- [ ] Spanish and Japanese Translation
+- [ ] Version for older minecraft versions.
+- [ ] Ability to use beeswax to make small decorative statues
 
 ## Regarding this source code.
 This code is licensed under the GNU General Public License.
@@ -56,4 +70,5 @@ Q: The mod is broken, where can I report problems?
 A: The GitHub issues tab. Remember, start your own thread. Don't hijack other people's thread with "I have the same problem." Everyone hates that.
 
 Q: Are there more doors or wheels in the world?
-A: Neither exist. Humans made up both doors and wheels.
+A: Neither exist. There are only particles in the shape of doors and wheels. But how do we define those shapes? Please do not
+ask me about ontology again.
