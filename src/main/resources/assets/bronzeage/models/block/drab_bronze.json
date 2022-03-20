@@ -2,6 +2,6 @@
 	"parent": "minecraft:block/cube_all",
 	"textures": 
 	{
-		"all": "bronzeage:block/bronzeDrab"
+		"all": "bronzeage:block/drab_bronze"
 	}
 } 
