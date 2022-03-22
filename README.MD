@@ -1,19 +1,13 @@
-# Project On Hold
-After working on this mod for a couple days and making minimal progress, I've realized that I really don't
-know what I'm doing.
-
-The Bronze Age mod will be put on hiatus until I've worked up some more skills writing 
-Java. A release will not be published until then.
-
-You're welcome to try and compile this into bytecode yourself and try it out. Just know it's
-_very_ unfinished.
+# Project Resumed
+You think I would give up that easy? Working on this project is WAY too much fun.
+I Guess I'll learn as I go.
 
 # The Bronze Age
 A.K.A "Awesomer Copper", Bronze is a metal alloy of copper and tin.
 This mod for forge 1.18.2 makes copper a little less useless.
 
 ## What does it add?
-_The Bronze Age_ adds tin. Tin is useless on it's own, but when you make an alloy with copper, you get bronze. 
+_The Bronze Age_ adds tin. Tin is useless on it's own, but when you make an alloy with copper, you get bronze.
 Stronger than Iron, weaker than diamond.
 
 With bronze, you can make:
@@ -80,8 +74,3 @@ A: The GitHub issues tab. Remember, start your own thread. Don't hijack other pe
 Q: Are there more doors or wheels in the world?  
 A: Neither exist. There are only particles in the shape of doors and wheels. But how do we define those shapes? Please do not
 ask me about ontology again.
-
-Q: What will you be doing while the mod is on hold?  
-A: I'll be working on learning Java. As it would seem, I was a victim of 
-[The Dunning-Kruger Effect.](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
-I thought I knew enough java to make a mod. I did not. So, I'll be learning until then.
