@@ -1,7 +1,3 @@
-# Project Resumed
-You think I would give up that easy? Working on this project is WAY too much fun.
-I Guess I'll learn as I go.
-
 # The Bronze Age
 A.K.A "Awesomer Copper", Bronze is a metal alloy of copper and tin.
 This mod for forge 1.18.2 makes copper a little less useless.
