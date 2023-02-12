@@ -2,6 +2,9 @@
 A.K.A "Awesomer Copper", Bronze is a metal alloy of copper and tin.
 This mod for forge 1.18.2 makes copper a little less useless.
 
+# An update
+1.18? You're funny, past me. Anyway, this mod hasn't been updated with anything in a while, I'll be putting this project officially on indefinite hiatus for a while. Minecraft mods are hard to make, and they take time and effort that I can't commit right now. Additionally, the modding community is moving on from forge and embracing fabric. So if i do ever remake this mod it will be ported to fab first. Anyway, it's almost midnight as I write this, good night.
+
 ## What does it add?
 _The Bronze Age_ adds tin. Tin is useless on it's own, but when you make an alloy with copper, you get bronze.
 Stronger than Iron, weaker than diamond.
@@ -67,6 +70,5 @@ A: There is no jar file, a release has not been published yet.
 Q: The mod is broken, where can I report problems?  
 A: The GitHub issues tab. Remember, start your own thread. Don't hijack other people's thread with "I have the same problem." Everyone hates that.
 
-Q: Are there more doors or wheels in the world?  
-A: Neither exist. There are only particles in the shape of doors and wheels. But how do we define those shapes? Please do not
-ask me about ontology again.
+Q: Whopper whopper whopper whopper
+A: Junior double triple whopper
